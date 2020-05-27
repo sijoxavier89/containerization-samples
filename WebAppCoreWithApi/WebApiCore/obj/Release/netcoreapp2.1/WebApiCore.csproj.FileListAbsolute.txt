@@ -1,0 +1,14 @@
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.deps.json
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.runtimeconfig.json
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.runtimeconfig.dev.json
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.dll
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.pdb
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.csprojAssemblyReference.cache
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.csproj.CoreCompileInputs.cache
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cache
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cs
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.AssemblyInfoInputs.cache
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.AssemblyInfo.cs
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.RazorTargetAssemblyInfo.cache
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.dll
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.pdb

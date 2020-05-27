@@ -1,0 +1,20 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  eshoplegacymvc:
+    build:
+      context: C:\Users\sijox\Desktop\Testapps-containerization\eShopLegacyMVCSolution\src\eShopLegacyMVC
+      dockerfile: Dockerfile
+    image: eshoplegacymvc
+    ports:
+    - target: 80
+  eshopwebapi:
+    build:
+      context: C:\Users\sijox\Desktop\Testapps-containerization\eShopLegacyMVCSolution\eShopWebAPI
+      dockerfile: Dockerfile
+    image: eshopwebapi
+    ports:
+    - target: 80
+version: '3.4'

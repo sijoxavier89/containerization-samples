@@ -1,0 +1,9 @@
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\bin\Release\WebAppCoreWithApi.Views.dll
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\bin\Release\WebAppCoreWithApi.Views.pdb
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\bin\Release\WebApiCore.dll
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\bin\Release\WebAppCoreWithApi.dll
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\bin\Release\WebAppCoreWithApi.pdb
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\bin\Release\WebApiCore.pdb
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\obj\Release\docker-compose.dcprojAssemblyReference.cache
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\sijox\Desktop\Testapps-containerization\WebAppCoreWithApi\obj\Release\docker-compose.dcproj.CopyComplete
